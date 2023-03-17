@@ -1,0 +1,198 @@
+
+  [{
+    "id": "abrigo-01",
+    "titulo": "Canguro Oxford",
+   "imagen": "./imagenes/abrigos/01.jpg",
+    "categoria": {
+      "nombre": "Abrigos",
+      "id": "abrigos"
+    },
+   "precio": 10000
+   },
+   {
+    "id": "abrigo-02",
+    "titulo": "Campera Polar",
+   "imagen": "./imagenes/abrigos/02.jpg",
+    "categoria": {
+      "nombre": "Abrigos",
+      "id": "abrigos"
+    },
+   "precio": 20000
+   },
+   {
+    "id": "abrigo-03",
+    "titulo": "Canguro Explorer",
+   "imagen": "./imagenes/abrigos/03.jpg",
+    "categoria": {
+      "nombre": "Abrigos",
+      "id": "abrigos"
+    },
+   "precio": 30000
+   },
+   {
+    "id": "abrigo-04",
+    "titulo": "Canguro Juno",
+   "imagen": "./imagenes/abrigos/04.jpg",
+    "categoria": {
+      "nombre": "Abrigos",
+      "id": "abrigos"
+    },
+   "precio": 12000
+   },
+   {
+    "id": "abrigo-05",
+    "titulo": "Chaleco",
+   "imagen": "./imagenes/abrigos/05.jpg",
+    "categoria": {
+      "nombre": "Abrigos",
+      "id": "abrigos"
+    },
+   "precio": 16000
+   },
+   {
+    "id": "abrigo-06",
+    "titulo": "Astronauta Polar",
+   "imagen": "./imagenes/abrigos/06.jpg",
+    "categoria": {
+      "nombre": "Abrigos",
+      "id": "abrigos"
+    },
+   "precio": 18000
+   },
+   {
+    "id": "abrigo-07",
+    "titulo": "Astronauta",
+   "imagen": "./imagenes/abrigos/07.jpg",
+    "categoria": {
+      "nombre": "Abrigos",
+      "id": "abrigos"
+    },
+   "precio": 13000
+   },
+   {
+    "id": "abrigo-08",
+    "titulo": "Sweater",
+   "imagen": "./imagenes/abrigos/08.jpg",
+    "categoria": {
+      "nombre": "Abrigos",
+      "id": "abrigos"
+    },
+   "precio": 15000
+   },
+  
+   {
+    "id": "calzado-01",
+    "titulo": "Botitas",
+   "imagen": "./imagenes/calzado/01.jpg",
+    "categoria": {
+      "nombre": "Calzado",
+      "id": "calzado"
+    },
+   "precio": 10000
+   },
+   {
+    "id": "calzado-02",
+    "titulo": "Botitas Kids",
+   "imagen": "./imagenes/calzado/02.jpg",
+    "categoria": {
+      "nombre": "Calzado",
+      "id": "calzado"
+    },
+   "precio": 20000
+   },
+   {
+    "id": "calzado-03",
+    "titulo": "Zapatillas Vans",
+   "imagen": "./imagenes/calzado/03.jpg",
+    "categoria": {
+      "nombre": "Calzado",
+      "id": "calzado"
+    },
+   "precio": 16000
+   },
+   {
+    "id": "calzado-04",
+    "titulo": "Botitas Kids",
+   "imagen": "./imagenes/calzado/04.jpg",
+    "categoria": {
+      "nombre": "Calzado",
+      "id": "calzado"
+    },
+   "precio": 12000
+   },
+   {
+    "id": "calzado-05",
+    "titulo": "Scarpines",
+   "imagen": "./imagenes/calzado/05.jpg",
+    "categoria": {
+      "nombre": "Calzado",
+      "id": "calzado"
+    },
+   "precio": 13000
+   },
+   {
+    "id": "calzado-06",
+    "titulo": "Zapatillas Convers",
+   "imagen": "./imagenes/calzado/06.jpg",
+    "categoria": {
+      "nombre": "Calzado",
+      "id": "calzado"
+    },
+   "precio": 14000
+   },
+
+  
+   {
+    "id": "pantalon-01",
+    "titulo": "Pantalon Corderoy",
+   "imagen": "./imagenes/pantalones/01.jpg",
+    "categoria": {
+      "nombre": "Pantalones",
+      "id": "pantalones"
+    },
+   "precio": 18000
+   },
+   {
+    "id": "pantalon-02",
+    "titulo": "Pantalon Jean",
+   "imagen": "./imagenes/pantalones/02.jpg",
+    "categoria": {
+      "nombre": "Pantalones",
+      "id": "pantalones"
+    },
+   "precio": 17000
+   },
+   {
+    "id": "pantalon-03",
+    "titulo": "Pantalon Jean Clasic",
+   "imagen": "./imagenes/pantalones/03.jpg",
+    "categoria": {
+      "nombre": "Pantalones",
+      "id": "pantalones"
+    },
+   "precio": 16000
+   },
+   {
+    "id": "pantalon-04",
+    "titulo": "Pantalón Jogger ",
+   "imagen": "./imagenes/pantalones/04.jpg",
+    "categoria": {
+      "nombre": "Pantalones",
+      "id": "pantalones"
+    },
+   "precio": 15000
+   },
+   {
+    "id": "pantalon-05",
+    "titulo": "Pantalón Mini Dreams",
+   "imagen": "./imagenes/pantalones/05.jpg",
+    "categoria": {
+      "nombre": "Pantalones",
+      "id": "pantalones"
+    },
+   "precio": 14000
+  } 
+  ]
+  
+
+   
